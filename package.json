@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "canvas": "^2.6.1",
     "canvas-constructor": "^3.2.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-node-canvas": "^3.0.6",
     "compression": "^1.7.4",
     "dblapi.js": "^2.3.0",
